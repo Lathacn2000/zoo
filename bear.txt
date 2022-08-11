@@ -1,5 +1,8 @@
 lions
 bears are beautif
 bears are big, strong and fast
+ tiger
+modifies line in tiger branch
 modified line in bear file
 master
+
